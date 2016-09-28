@@ -1,0 +1,4356 @@
+{
+   "frc4": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team4element",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc8": {
+      "facebook": "https://www.facebook.com/palyrobotics",
+      "twitter": "https://twitter.com/frc8",
+      "youtube": "",
+      "github": "https://github.com/team8",
+      "instagram": ""
+   },
+   "frc11": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc11",
+      "youtube": "",
+      "github": "https://github.com/mort11",
+      "instagram": ""
+   },
+   "frc16": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam16",
+      "youtube": "",
+      "github": "https://github.com/frcteam16",
+      "instagram": ""
+   },
+   "frc20": {
+      "facebook": "https://www.facebook.com/frcteam20",
+      "twitter": "https://twitter.com/frcteam20",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc25": {
+      "facebook": "https://www.facebook.com/raiderrobotix",
+      "twitter": "https://twitter.com/raiderrobotix",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc27": {
+      "facebook": "",
+      "twitter": "https://twitter.com/teamrush27",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc31": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam31",
+      "youtube": "https://www.youtube.com/channeluchdjfonl8762jsqqi27zbpa",
+      "github": "",
+      "instagram": ""
+   },
+   "frc33": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc33",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc67": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc67",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc75": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc75",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc93": {
+      "facebook": "",
+      "twitter": "https://twitter.com/nacteam93",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc95": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/first95",
+      "instagram": ""
+   },
+   "frc100": {
+      "facebook": "https://www.facebook.com/frcteam100wildhats",
+      "twitter": "https://twitter.com/frcteam100",
+      "youtube": "https://www.youtube.com/team100wildhats",
+      "github": "https://github.com/team100",
+      "instagram": ""
+   },
+   "frc108": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam108",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc111": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/wildstang",
+      "instagram": ""
+   },
+   "frc115": {
+      "facebook": "",
+      "twitter": "https://twitter.com/mvrt115",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc118": {
+      "facebook": "",
+      "twitter": "https://twitter.com/robonauts118",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc123": {
+      "facebook": "",
+      "twitter": "https://twitter.com/123cosmos",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc126": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc126",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc131": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam131",
+      "youtube": "",
+      "github": "https://github.com/manchester-central",
+      "instagram": ""
+   },
+   "frc141": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team141wobot",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc148": {
+      "facebook": "https://www.facebook.com/robotics-team-148-robowranglers-144761815581405",
+      "twitter": "https://twitter.com/robowranglers",
+      "youtube": "https://www.youtube.com/robowranglers",
+      "github": "",
+      "instagram": ""
+   },
+   "frc151": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc151",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc156": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc156",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc157": {
+      "facebook": "",
+      "twitter": "https://twitter.com/aztechsteam157",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc166": {
+      "facebook": "https://www.facebook.com/chopshop166",
+      "twitter": "https://twitter.com/chopshop166",
+      "youtube": "https://www.youtube.com/chopshop166",
+      "github": "https://github.com/chopshop-166",
+      "instagram": ""
+   },
+   "frc175": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc175",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc177": {
+      "facebook": "https://www.facebook.com/bobcatrobotics",
+      "twitter": "https://twitter.com/bobcat_robotics",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc178": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team178",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc179": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc179swamp",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc180": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc180",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc181": {
+      "facebook": "",
+      "twitter": "https://twitter.com/birdsofprey181",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc191": {
+      "facebook": "",
+      "twitter": "https://twitter.com/191xcats",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc195": {
+      "facebook": "https://www.facebook.com/team195",
+      "twitter": "https://twitter.com/cyberknights195",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc201": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team201",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc207": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/dpurry23frc-team_207",
+      "instagram": ""
+   },
+   "frc217": {
+      "facebook": "",
+      "twitter": "https://twitter.com/tc_217",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc223": {
+      "facebook": "",
+      "twitter": "https://twitter.com/xtremeheat223",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc228": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc228",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc233": {
+      "facebook": "",
+      "twitter": "https://twitter.com/thepinkteam233",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc234": {
+      "facebook": "",
+      "twitter": "https://twitter.com/cyberblue234",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc236": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/team236",
+      "instagram": ""
+   },
+   "frc240": {
+      "facebook": "https://www.facebook.com/team240",
+      "twitter": "https://twitter.com/tempest240",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc244": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc244",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc247": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc_247",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc254": {
+      "facebook": "https://www.facebook.com/team254robotics",
+      "twitter": "https://twitter.com/team254",
+      "youtube": "https://www.youtube.com/254cheesypoofs",
+      "github": "https://github.com/team254",
+      "instagram": ""
+   },
+   "frc272": {
+      "facebook": "",
+      "twitter": "https://twitter.com/cybercrusaders",
+      "youtube": "",
+      "github": "",
+      "instagram": "https://www.instagram.com/272cybercrusaders"
+   },
+   "frc279": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team_279",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc281": {
+      "facebook": "",
+      "twitter": "https://twitter.com/entech281",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc288": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc288",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc294": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/team294",
+      "instagram": ""
+   },
+   "frc296": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc296",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc316": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc319",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc337": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team_337",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc340": {
+      "facebook": "",
+      "twitter": "https://twitter.com/first_team_340",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc341": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc341missdaisy",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc343": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam343",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc346": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc346",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc358": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc358",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc365": {
+      "facebook": "https://www.facebook.com/moerobotics",
+      "twitter": "https://twitter.com/firstmoe365",
+      "youtube": "https://www.youtube.com/moe365webteam",
+      "github": "",
+      "instagram": "https://www.instagram.com/themiracleworkerz"
+   },
+   "frc375": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc375",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc379": {
+      "facebook": "",
+      "twitter": "https://twitter.com/robocats379",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc384": {
+      "facebook": "",
+      "twitter": "https://twitter.com/384sparky",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc386": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/voltage-386",
+      "instagram": ""
+   },
+   "frc388": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc388",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc395": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc395",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc399": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc399",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc401": {
+      "facebook": "https://www.facebook.com/copperheadrobotics",
+      "twitter": "https://twitter.com/frcteam401",
+      "youtube": "",
+      "github": "https://github.com/team401",
+      "instagram": "https://www.instagram.com/thecopperheads"
+   },
+   "frc422": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc422",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc423": {
+      "facebook": "https://www.facebook.com/first-team-423-1721663961393647",
+      "twitter": "https://twitter.com/frc423",
+      "youtube": "",
+      "github": "",
+      "instagram": "https://www.instagram.com/frc423"
+   },
+   "frc433": {
+      "facebook": "",
+      "twitter": "https://twitter.com/firebirds433",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc447": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc447",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc449": {
+      "facebook": "https://www.facebook.com/blairrobot",
+      "twitter": "https://twitter.com/firstteam449",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc453": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam453",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc459": {
+      "facebook": "",
+      "twitter": "https://twitter.com/pheminixteam459",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc461": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc461",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc498": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam498",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc525": {
+      "facebook": "",
+      "twitter": "https://twitter.com/525swartdogs",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc527": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team527",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc533": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team533",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc537": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team537",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc539": {
+      "facebook": "",
+      "twitter": "https://twitter.com/539robotics",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc548": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc548",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc558": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam558",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc568": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc568",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc573": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam_573",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc578": {
+      "facebook": "https://www.facebook.com/team578",
+      "twitter": "",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc589": {
+      "facebook": "",
+      "twitter": "https://twitter.com/589falkonrobots",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc597": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team597",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc604": {
+      "facebook": "https://www.facebook.com/frc604",
+      "twitter": "https://twitter.com/frc604",
+      "youtube": "https://www.youtube.com/lelandrobotics",
+      "github": "https://github.com/frc604",
+      "instagram": "https://www.instagram.com/frc604"
+   },
+   "frc610": {
+      "facebook": "https://www.facebook.com/team610",
+      "twitter": "",
+      "youtube": "https://www.youtube.com/team610",
+      "github": "",
+      "instagram": ""
+   },
+   "frc612": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/chantilly612code",
+      "instagram": ""
+   },
+   "frc624": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc624",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc639": {
+      "facebook": "",
+      "twitter": "https://twitter.com/crrteam639",
+      "youtube": "",
+      "github": "https://github.com/crrobotics",
+      "instagram": ""
+   },
+   "frc677": {
+      "facebook": "",
+      "twitter": "https://twitter.com/first_team_677",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc687": {
+      "facebook": "",
+      "twitter": "https://twitter.com/nerdherd687",
+      "youtube": "",
+      "github": "https://github.com/nerdherd",
+      "instagram": ""
+   },
+   "frc694": {
+      "facebook": "https://www.facebook.com/stuypulse",
+      "twitter": "",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc708": {
+      "facebook": "https://www.facebook.com/frcteam708",
+      "twitter": "https://twitter.com/frc708",
+      "youtube": "",
+      "github": "https://github.com/team708",
+      "instagram": ""
+   },
+   "frc744": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam744",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc771": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc771",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc772": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam772",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc781": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc781",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc810": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team810",
+      "youtube": "",
+      "github": "https://github.com/team810",
+      "instagram": ""
+   },
+   "frc811": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team811",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc812": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam812",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc818": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam818",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc834": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc834",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc836": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc836",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc842": {
+      "facebook": "https://www.facebook.com/carl-hayden-falcon-robotics-team-842-163234503744962",
+      "twitter": "https://twitter.com/falconrobotics",
+      "youtube": "",
+      "github": "",
+      "instagram": "https://www.instagram.com/falconrobotics"
+   },
+   "frc862": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc862",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc865": {
+      "facebook": "https://www.facebook.com/frc865",
+      "twitter": "https://twitter.com/frc865",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc868": {
+      "facebook": "https://www.facebook.com/frc868",
+      "twitter": "https://twitter.com/techhounds868",
+      "youtube": "https://www.youtube.com/team868",
+      "github": "https://github.com/frc868",
+      "instagram": ""
+   },
+   "frc869": {
+      "facebook": "",
+      "twitter": "https://twitter.com/869powercord",
+      "youtube": "",
+      "github": "https://github.com/frc869",
+      "instagram": ""
+   },
+   "frc900": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc900",
+      "youtube": "",
+      "github": "https://github.com/frc900",
+      "instagram": ""
+   },
+   "frc910": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc910",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc932": {
+      "facebook": "",
+      "twitter": "https://twitter.com/firsteam932",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc938": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc938",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc948": {
+      "facebook": "",
+      "twitter": "https://twitter.com/nrg948",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc967": {
+      "facebook": "",
+      "twitter": "https://twitter.com/lmrobotics",
+      "youtube": "https://www.youtube.com/lmrobotics",
+      "github": "",
+      "instagram": ""
+   },
+   "frc971": {
+      "facebook": "https://www.facebook.com/frc971",
+      "twitter": "https://twitter.com/team971",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc973": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc973",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc980": {
+      "facebook": "https://www.facebook.com/team980thunderbots",
+      "twitter": "https://twitter.com/frc980",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc999": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam999",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1002": {
+      "facebook": "https://www.facebook.com/circuitrunners",
+      "twitter": "https://twitter.com/circuitrunners",
+      "youtube": "https://www.youtube.com/circuitrunners",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1011": {
+      "facebook": "",
+      "twitter": "https://twitter.com/crush1011",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1018": {
+      "facebook": "",
+      "twitter": "https://twitter.com/robodevil1018",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1023": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1023",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1024": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1024",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1033": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam1033",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1058": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam1058",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1065": {
+      "facebook": "",
+      "twitter": "https://twitter.com/moose1065",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1071": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1071",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1072": {
+      "facebook": "https://www.facebook.com/harker-robotics-team-1072-199777950060812",
+      "twitter": "https://twitter.com/harker1072",
+      "youtube": "",
+      "github": "https://github.com/harkerrobo",
+      "instagram": ""
+   },
+   "frc1073": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team1073",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1086": {
+      "facebook": "https://www.facebook.com/frc1086",
+      "twitter": "https://twitter.com/frc1086",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1089": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1089",
+      "youtube": "",
+      "github": "https://github.com/mercury1089",
+      "instagram": ""
+   },
+   "frc1100": {
+      "facebook": "",
+      "twitter": "https://twitter.com/firstteam1100",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1108": {
+      "facebook": "https://www.facebook.com/first-robotics-team-1108-panther-robotics-130742220315492",
+      "twitter": "https://twitter.com/first_team_1108",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1114": {
+      "facebook": "https://www.facebook.com/frc1114",
+      "twitter": "https://twitter.com/frc1114",
+      "youtube": "https://www.youtube.com/simbotics",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1124": {
+      "facebook": "https://www.facebook.com/theuberbots",
+      "twitter": "https://twitter.com/team1124",
+      "youtube": "https://www.youtube.com/Uberbots1124",
+      "github": "https://github.com/frc1124",
+      "instagram": ""
+   },
+   "frc1126": {
+      "facebook": "https://www.facebook.com/sparx1126",
+      "twitter": "",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1156": {
+      "facebook": "",
+      "twitter": "https://twitter.com/underctrl1156",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1160": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1160",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1165": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team1165",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1189": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1189",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1197": {
+      "facebook": "",
+      "twitter": "https://twitter.com/1197torbots",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1225": {
+      "facebook": "",
+      "twitter": "https://twitter.com/1225gorillas",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1241": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1241",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1246": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1246",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1257": {
+      "facebook": "https://www.facebook.com/frc1257",
+      "twitter": "https://twitter.com/frc1257",
+      "youtube": "",
+      "github": "https://github.com/team1257",
+      "instagram": ""
+   },
+   "frc1289": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team1289",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1294": {
+      "facebook": "https://www.facebook.com/topgunrobotics",
+      "twitter": "",
+      "youtube": "https://www.youtube.com/topgun1294",
+      "github": "https://github.com/frc-1294",
+      "instagram": ""
+   },
+   "frc1296": {
+      "facebook": "https://www.facebook.com/1296fullmetaljackets",
+      "twitter": "https://twitter.com/frcteam1296",
+      "youtube": "",
+      "github": "",
+      "instagram": "https://www.instagram.com/frc1296"
+   },
+   "frc1305": {
+      "facebook": "",
+      "twitter": "https://twitter.com/firstteam1305",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1306": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team1306",
+      "youtube": "",
+      "github": "https://github.com/team1306",
+      "instagram": ""
+   },
+   "frc1310": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team1310",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1318": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1318",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1325": {
+      "facebook": "https://www.facebook.com/frc1325",
+      "twitter": "https://twitter.com/frc1325",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1334": {
+      "facebook": "https://www.facebook.com/frc-team-1334-149244261792203",
+      "twitter": "https://twitter.com/frc1334",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1360": {
+      "facebook": "https://www.facebook.com/frcteam1360",
+      "twitter": "https://twitter.com/frc1360",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1369": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1369minotaur",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1378": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team1378",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1382": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team1382",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1389": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1389announce",
+      "youtube": "",
+      "github": "https://github.com/team1389",
+      "instagram": ""
+   },
+   "frc1403": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team1403",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1418": {
+      "facebook": "https://www.facebook.com/robotics1418",
+      "twitter": "https://twitter.com/robotics1418",
+      "youtube": "https://www.youtube.com/robotics1418",
+      "github": "https://github.com/frc1418",
+      "instagram": ""
+   },
+   "frc1421": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1421",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1425": {
+      "facebook": "",
+      "twitter": "https://twitter.com/1425robotics",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1432": {
+      "facebook": "https://www.facebook.com/team1432",
+      "twitter": "https://twitter.com/team1432",
+      "youtube": "https://www.youtube.com/team1432",
+      "github": "https://github.com/team1432",
+      "instagram": ""
+   },
+   "frc1444": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team_1444",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1452": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam1452",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1493": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team1493",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1501": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team1501",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1510": {
+      "facebook": "https://www.facebook.com/frc1510",
+      "twitter": "https://twitter.com/frc1510",
+      "youtube": "",
+      "github": "https://github.com/bpsrobotics",
+      "instagram": "https://www.instagram.com/frc1510"
+   },
+   "frc1511": {
+      "facebook": "",
+      "twitter": "https://twitter.com/1511",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1515": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1515",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1523": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1523mars",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1529": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1529",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1540": {
+      "facebook": "https://www.facebook.com/frc1540",
+      "twitter": "https://twitter.com/flamingchickens",
+      "youtube": "https://www.youtube.com/1540flamingchickens",
+      "github": "https://github.com/flamingchickens1540",
+      "instagram": ""
+   },
+   "frc1547": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1547",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1559": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team1559",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1561": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team1561member",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1574": {
+      "facebook": "https://www.facebook.com/miscar1574",
+      "twitter": "https://twitter.com/miscar1574",
+      "youtube": "https://www.youtube.com/miscar1574",
+      "github": "",
+      "instagram": "https://www.instagram.com/miscar1574"
+   },
+   "frc1592": {
+      "facebook": "https://www.facebook.com/bionic.tigers",
+      "twitter": "https://twitter.com/frc1592",
+      "youtube": "https://www.youtube.com/bionictigers",
+      "github": "",
+      "instagram": "https://www.instagram.com/bionictigers1592"
+   },
+   "frc1596": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1596",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1599": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team1599",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1610": {
+      "facebook": "https://www.facebook.com/frc1610",
+      "twitter": "",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1619": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/team1619",
+      "instagram": ""
+   },
+   "frc1622": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1622",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1646": {
+      "facebook": "",
+      "twitter": "https://twitter.com/pg1646",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1647": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1647",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1648": {
+      "facebook": "",
+      "twitter": "https://twitter.com/g3robotics",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1660": {
+      "facebook": "",
+      "twitter": "https://twitter.com/hk1660",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1671": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1671",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1672": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam1672",
+      "youtube": "https://www.youtube.com/mahwahrobotbirds",
+      "github": "https://github.com/team1672",
+      "instagram": "https://www.instagram.com/frcteam1672"
+   },
+   "frc1675": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1675",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1676": {
+      "facebook": "https://www.facebook.com/pascackpioneers",
+      "twitter": "https://twitter.com/frcteam1676",
+      "youtube": "https://www.youtube.com/team1676",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1683": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam1683",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1699": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/first-team-1699",
+      "instagram": ""
+   },
+   "frc1710": {
+      "facebook": "",
+      "twitter": "https://twitter.com/ravonics1710",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1711": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team1711raptors",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1716": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team1716",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1718": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1718",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1721": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/frc-1721",
+      "instagram": ""
+   },
+   "frc1730": {
+      "facebook": "",
+      "twitter": "https://twitter.com/teamdriven1730",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1732": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team1732",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1736": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1736",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1741": {
+      "facebook": "",
+      "twitter": "https://twitter.com/redalert1741",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1742": {
+      "facebook": "",
+      "twitter": "https://twitter.com/shockwave1742",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1747": {
+      "facebook": "",
+      "twitter": "https://twitter.com/1747robotics",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1756": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1756",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1761": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team1761",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1785": {
+      "facebook": "",
+      "twitter": "https://twitter.com/1785robocats",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1791": {
+      "facebook": "",
+      "twitter": "https://twitter.com/chsrobotics1791",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1802": {
+      "facebook": "",
+      "twitter": "https://twitter.com/teamstealth1802",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1806": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1806",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1816": {
+      "facebook": "",
+      "twitter": "https://twitter.com/firstteam1816",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1835": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team1835",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1836": {
+      "facebook": "https://www.facebook.com/themilkenknights",
+      "twitter": "https://twitter.com/milkenknights",
+      "youtube": "",
+      "github": "https://github.com/1836",
+      "instagram": "https://www.instagram.com/milkenknights"
+   },
+   "frc1846": {
+      "facebook": "",
+      "twitter": "https://twitter.com/1846levortex",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1872": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam1872",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1876": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1876",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1891": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/bullbots",
+      "instagram": ""
+   },
+   "frc1899": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/saintsrobotics",
+      "instagram": ""
+   },
+   "frc1902": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcbacon1902",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1912": {
+      "facebook": "https://www.facebook.com/team1912combustion",
+      "twitter": "https://twitter.com/team1912",
+      "youtube": "https://www.youtube.com/team1912combustion",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1915": {
+      "facebook": "",
+      "twitter": "https://twitter.com/firebird1915",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1923": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc1923",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1927": {
+      "facebook": "",
+      "twitter": "https://twitter.com/teamtempest1927",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1967": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team1967",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1982": {
+      "facebook": "https://www.facebook.com/nwcougarrobotics",
+      "twitter": "https://twitter.com/nwcougarrobots",
+      "youtube": "https://www.youtube.com/smnwcougarrobotics",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1983": {
+      "facebook": "",
+      "twitter": "https://twitter.com/skunkworks1983",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1985": {
+      "facebook": "",
+      "twitter": "https://twitter.com/robohawks1985",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1987": {
+      "facebook": "",
+      "twitter": "https://twitter.com/broncobots1987",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc1991": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/frc1991",
+      "instagram": ""
+   },
+   "frc2016": {
+      "facebook": "",
+      "twitter": "https://twitter.com/idea2016frc",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2046": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2046",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2048": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2048",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2056": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2056",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2059": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team2059",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2062": {
+      "facebook": "",
+      "twitter": "https://twitter.com/core2062",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2080": {
+      "facebook": "",
+      "twitter": "https://twitter.com/torbotics2080",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2084": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/robotsbythec",
+      "instagram": ""
+   },
+   "frc2122": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/team2122",
+      "instagram": ""
+   },
+   "frc2137": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team2137",
+      "youtube": "",
+      "github": "https://github.com/torc2137",
+      "instagram": ""
+   },
+   "frc2147": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam2147",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2148": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team2148",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2151": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam2151",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2152": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team2152",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2158": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2158",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2169": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2169",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2180": {
+      "facebook": "",
+      "twitter": "https://twitter.com/firstteam2180",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2191": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team2191",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2220": {
+      "facebook": "",
+      "twitter": "https://twitter.com/2220robotics",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2225": {
+      "facebook": "",
+      "twitter": "https://twitter.com/rust2225",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2228": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2228",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2337": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team2337",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2338": {
+      "facebook": "",
+      "twitter": "https://twitter.com/first2338",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2341": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2341",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2342": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team2342",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2349": {
+      "facebook": "",
+      "twitter": "https://twitter.com/hurriquake2349",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2367": {
+      "facebook": "",
+      "twitter": "https://twitter.com/sfrt2367",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2369": {
+      "facebook": "",
+      "twitter": "https://twitter.com/first2369",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2370": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/frcteam2370",
+      "instagram": ""
+   },
+   "frc2374": {
+      "facebook": "",
+      "twitter": "https://twitter.com/crusaderbot2374",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2383": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team2383",
+      "youtube": "",
+      "github": "https://github.com/team2383",
+      "instagram": ""
+   },
+   "frc2386": {
+      "facebook": "",
+      "twitter": "https://twitter.com/trojans2386",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2408": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team2408",
+      "youtube": "",
+      "github": "https://github.com/shrapnelsergeants2408",
+      "instagram": ""
+   },
+   "frc2410": {
+      "facebook": "https://www.facebook.com/frc2410",
+      "twitter": "https://twitter.com/team2410",
+      "youtube": "",
+      "github": "https://github.com/caps-robotics",
+      "instagram": ""
+   },
+   "frc2412": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/robototes",
+      "instagram": ""
+   },
+   "frc2415": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/wiredcatsrobotics2415",
+      "instagram": ""
+   },
+   "frc2423": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/frc2423",
+      "instagram": ""
+   },
+   "frc2438": {
+      "facebook": "https://www.facebook.com/iobotics",
+      "twitter": "https://twitter.com/iobotics",
+      "youtube": "",
+      "github": "https://github.com/iobotics",
+      "instagram": ""
+   },
+   "frc2443": {
+      "facebook": "",
+      "twitter": "https://twitter.com/bluethunder2443",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2468": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2468",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2470": {
+      "facebook": "",
+      "twitter": "https://twitter.com/blitzteam2470",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2471": {
+      "facebook": "",
+      "twitter": "https://twitter.com/meanmachine2471",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2472": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team_2472",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2481": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam2481",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2485": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam2485",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2486": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/coconuts2486-frc",
+      "instagram": ""
+   },
+   "frc2489": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2489",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2493": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2493",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2500": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2500",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2502": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2502",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2508": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2508",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2512": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2512",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2522": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/royal-robotics",
+      "instagram": ""
+   },
+   "frc2530": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team2530",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2537": {
+      "facebook": "https://www.facebook.com/team2537",
+      "twitter": "",
+      "youtube": "https://www.youtube.com/frc2537ahs",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2539": {
+      "facebook": "",
+      "twitter": "https://twitter.com/firstteam2539",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2560": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc_team2560",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2576": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/chilean-heart",
+      "instagram": ""
+   },
+   "frc2579": {
+      "facebook": "https://www.facebook.com/team2579",
+      "twitter": "",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2587": {
+      "facebook": "https://www.facebook.com/discobots2587",
+      "twitter": "https://twitter.com/discobots",
+      "youtube": "https://www.youtube.com/lamardiscobots",
+      "github": "https://github.com/discobots2587",
+      "instagram": ""
+   },
+   "frc2590": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2590",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2603": {
+      "facebook": "",
+      "twitter": "https://twitter.com/teamhornet2603",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2606": {
+      "facebook": "",
+      "twitter": "https://twitter.com/irish_2606",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2609": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2609",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2611": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team2611",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2614": {
+      "facebook": "",
+      "twitter": "https://twitter.com/mars_2614",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2619": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2619",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2626": {
+      "facebook": "https://www.facebook.com/evolution2626",
+      "twitter": "https://twitter.com/evolution2626",
+      "youtube": "https://www.youtube.com/evolution2626first",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2630": {
+      "facebook": "",
+      "twitter": "https://twitter.com/tb2630",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2640": {
+      "facebook": "",
+      "twitter": "https://twitter.com/hotbotz2640",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2641": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2641",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2642": {
+      "facebook": "",
+      "twitter": "https://twitter.com/pittpirates2642",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2654": {
+      "facebook": "",
+      "twitter": "https://twitter.com/2654roborams",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2655": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team2655",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2660": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/pengbots2660",
+      "instagram": ""
+   },
+   "frc2667": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2667",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2679": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team2679",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2705": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2705",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2706": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2706",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2723": {
+      "facebook": "https://www.facebook.com/msmrocketrobotics",
+      "twitter": "https://twitter.com/frc2723",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2771": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2771",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2773": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/dcmidfrc-2015",
+      "instagram": ""
+   },
+   "frc2789": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2789",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2791": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/team2791",
+      "instagram": ""
+   },
+   "frc2797": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam2797",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2805": {
+      "facebook": "",
+      "twitter": "https://twitter.com/@waxrobotics",
+      "youtube": "",
+      "github": "https://github.com/ghost-in-the-machine-2805",
+      "instagram": ""
+   },
+   "frc2809": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2809",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2826": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2826wave",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2836": {
+      "facebook": "",
+      "twitter": "https://twitter.com/teambeta2836",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2846": {
+      "facebook": "",
+      "twitter": "https://twitter.com/firebears2846",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2848": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/allsparks2848",
+      "instagram": ""
+   },
+   "frc2852": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/team2852",
+      "instagram": ""
+   },
+   "frc2855": {
+      "facebook": "",
+      "twitter": "https://twitter.com/comobeastbot",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2877": {
+      "facebook": "https://www.facebook.com/the-ligerbots-162121450506644",
+      "twitter": "https://twitter.com/ligerbots",
+      "youtube": "",
+      "github": "https://github.com/ligerbots",
+      "instagram": ""
+   },
+   "frc2879": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/frc2879",
+      "instagram": ""
+   },
+   "frc2881": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam2881",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2898": {
+      "facebook": "https://www.facebook.com/theflyinghedgehogs",
+      "twitter": "",
+      "youtube": "https://www.youtube.com/2898flyinghedgehogs",
+      "github": "https://github.com/bpsrobotics",
+      "instagram": "https://www.instagram.com/frc2898"
+   },
+   "frc2903": {
+      "facebook": "",
+      "twitter": "https://twitter.com/neobots2903",
+      "youtube": "",
+      "github": "https://github.com/neobots2903",
+      "instagram": ""
+   },
+   "frc2928": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2928",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2950": {
+      "facebook": "",
+      "twitter": "https://twitter.com/devastators2950",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2959": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team2959",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2971": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2971",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2972": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc2972",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2974": {
+      "facebook": "",
+      "twitter": "https://twitter.com/walt2974",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2977": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team2977",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2988": {
+      "facebook": "",
+      "twitter": "https://twitter.com/cchsteam2988",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2990": {
+      "facebook": "",
+      "twitter": "https://twitter.com/hotwire2990",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2992": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team2992",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc2994": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc_team2994",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3003": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/tanofx",
+      "instagram": ""
+   },
+   "frc3015": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team3015",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3044": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team3044",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3061": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team3061",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3102": {
+      "facebook": "https://www.facebook.com/tnt3102",
+      "twitter": "https://twitter.com/tnt3102",
+      "youtube": "https://www.youtube.com/tnt3102org",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3104": {
+      "facebook": "",
+      "twitter": "https://twitter.com/cyberrams3104",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3132": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team3132",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3147": {
+      "facebook": "",
+      "twitter": "https://twitter.com/horsepower3147",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3157": {
+      "facebook": "",
+      "twitter": "https://twitter.com/firstteam3157",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3161": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team3161",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3168": {
+      "facebook": "",
+      "twitter": "https://twitter.com/first_team_3168",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3172": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team3172",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3175": {
+      "facebook": "https://www.facebook.com/frc3175",
+      "twitter": "https://twitter.com/frc3175",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3176": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team3176",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3182": {
+      "facebook": "",
+      "twitter": "https://twitter.com/first_team3182",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3184": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team3184",
+      "youtube": "",
+      "github": "https://github.com/frc3184",
+      "instagram": ""
+   },
+   "frc3196": {
+      "facebook": "https://www.facebook.com/teamspork3196",
+      "twitter": "https://twitter.com/frc3196",
+      "youtube": "https://www.youtube.com/firstteamspork",
+      "github": "",
+      "instagram": "https://www.instagram.com/teamspork3196"
+   },
+   "frc3200": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/raptacon",
+      "instagram": ""
+   },
+   "frc3229": {
+      "facebook": "",
+      "twitter": "https://twitter.com/3229hawktimus",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3233": {
+      "facebook": "",
+      "twitter": "https://twitter.com/bots3233",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3234": {
+      "facebook": "https://www.facebook.com/lowellrobotics",
+      "twitter": "https://twitter.com/frc3234",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3238": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team3238",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3239": {
+      "facebook": "https://www.facebook.com/nuamesrobotics",
+      "twitter": "https://twitter.com/nuamesrobotics",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3260": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team_3260",
+      "youtube": "",
+      "github": "",
+      "instagram": "https://www.instagram.com/sharprobotics"
+   },
+   "frc3266": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3266",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3284": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc_laser_3284",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3302": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3302",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3310": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3310",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3324": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/frc3324",
+      "instagram": ""
+   },
+   "frc3337": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3337",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3339": {
+      "facebook": "https://www.facebook.com/bumbleb3339",
+      "twitter": "https://twitter.com/frc3339",
+      "youtube": "https://www.youtube.com/bumbleb3339",
+      "github": "",
+      "instagram": "https://www.instagram.com/bumbleb3339"
+   },
+   "frc3354": {
+      "facebook": "https://www.facebook.com/tecdroid3354",
+      "twitter": "https://twitter.com/tecdroidoficial",
+      "youtube": "https://www.youtube.com/tecdroidfrc3354",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3360": {
+      "facebook": "https://www.facebook.com/hyperion3360",
+      "twitter": "https://twitter.com/frc3360",
+      "youtube": "https://www.youtube.com/hyperion3360",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3387": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam3387",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3396": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3396",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3452": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3452",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3453": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team3453",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3467": {
+      "facebook": "",
+      "twitter": "https://twitter.com/first_team3467",
+      "youtube": "",
+      "github": "https://github.com/whs-frc-3467",
+      "instagram": ""
+   },
+   "frc3472": {
+      "facebook": "",
+      "twitter": "https://twitter.com/buluk3472",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3476": {
+      "facebook": "https://www.facebook.com/frc3476",
+      "twitter": "https://twitter.com/codeorangefrc",
+      "youtube": "https://www.youtube.com/codeorangefrc",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3478": {
+      "facebook": "https://www.facebook.com/teamlambot3478",
+      "twitter": "https://twitter.com/teamlambot3478",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3480": {
+      "facebook": "https://www.facebook.com/frcabtomat3480",
+      "twitter": "https://twitter.com/frcabtomat3480",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3491": {
+      "facebook": "",
+      "twitter": "https://twitter.com/futuredinos3491",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3492": {
+      "facebook": "",
+      "twitter": "https://twitter.com/parts3492",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3494": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3494",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3507": {
+      "facebook": "",
+      "twitter": "https://twitter.com/ubotics",
+      "youtube": "https://www.youtube.com/ubotics3507",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3510": {
+      "facebook": "",
+      "twitter": "https://twitter.com/tectronic3510",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3512": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/team3512",
+      "instagram": ""
+   },
+   "frc3525": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3525",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3527": {
+      "facebook": "",
+      "twitter": "https://twitter.com/tecbalam_3527",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3530": {
+      "facebook": "",
+      "twitter": "https://twitter.com/patriotix3530",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3536": {
+      "facebook": "",
+      "twitter": "https://twitter.com/protein__3536",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3539": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3539",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3542": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3542speed",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3544": {
+      "facebook": "",
+      "twitter": "https://twitter.com/spartiates_3544",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3546": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam3546",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3547": {
+      "facebook": "",
+      "twitter": "https://twitter.com/teamvirus3547",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3550": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3550",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3566": {
+      "facebook": "",
+      "twitter": "https://twitter.com/3566robotics",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3570": {
+      "facebook": "",
+      "twitter": "https://twitter.com/pheonix3570",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3588": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team3588",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3593": {
+      "facebook": "",
+      "twitter": "https://twitter.com/invictus3593",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3597": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team3597",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3604": {
+      "facebook": "https://www.facebook.com/woodhaven-robotics-team-3604-167378876696706",
+      "twitter": "https://twitter.com/goonsquad3604",
+      "youtube": "https://www.youtube.com/whsrobotics3604",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3607": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam3607",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3623": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3623",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3627": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3627",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3630": {
+      "facebook": "",
+      "twitter": "https://twitter.com/stampede3630",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3637": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3637",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3640": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3640",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3641": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team3641",
+      "youtube": "",
+      "github": "",
+      "instagram": "https://www.instagram.com/team3641"
+   },
+   "frc3647": {
+      "facebook": "https://www.facebook.com/team3647",
+      "twitter": "",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3666": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam3666",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3667": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team3667",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3668": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/whitmorelaketrobots",
+      "instagram": ""
+   },
+   "frc3680": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team3680",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3683": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team3683",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3688": {
+      "facebook": "https://www.facebook.com/sbhsrobotics",
+      "twitter": "",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3690": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3690",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3695": {
+      "facebook": "",
+      "twitter": "https://twitter.com/foximus3695",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3705": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3705",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3710": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3710",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3714": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3714chfhs",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3722": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3722",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3729": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3729",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3756": {
+      "facebook": "",
+      "twitter": "https://twitter.com/3756ramferno",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3780": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/trufrc3780",
+      "instagram": ""
+   },
+   "frc3782": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam3782",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3786": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/kentridgerobotics",
+      "instagram": ""
+   },
+   "frc3794": {
+      "facebook": "",
+      "twitter": "https://twitter.com/wint_frc3794",
+      "youtube": "",
+      "github": "https://github.com/wint-3794",
+      "instagram": ""
+   },
+   "frc3824": {
+      "facebook": "",
+      "twitter": "https://twitter.com/rohawktics3824",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3847": {
+      "facebook": "",
+      "twitter": "https://twitter.com/spectrum3847",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3872": {
+      "facebook": "",
+      "twitter": "https://twitter.com/3872pantech",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3928": {
+      "facebook": "https://www.facebook.com/frcneutrino",
+      "twitter": "https://twitter.com/frcneutrino",
+      "youtube": "https://www.youtube.com/3928neutrino",
+      "github": "https://github.com/team-neutrino",
+      "instagram": "https://www.instagram.com/4hteamneutrino"
+   },
+   "frc3930": {
+      "facebook": "",
+      "twitter": "https://twitter.com/3930smart",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3931": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3931",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3937": {
+      "facebook": "",
+      "twitter": "https://twitter.com/breakaway3937",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3940": {
+      "facebook": "",
+      "twitter": "https://twitter.com/3940cybertooth",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3946": {
+      "facebook": "",
+      "twitter": "https://twitter.com/slidellrobotics",
+      "youtube": "https://www.youtube.com/slidellrobotics",
+      "github": "https://github.com/frc3946",
+      "instagram": "https://www.instagram.com/tiger_robotics_3946"
+   },
+   "frc3947": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3947",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3949": {
+      "facebook": "",
+      "twitter": "https://twitter.com/dyrobotics3949",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3958": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3958",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3966": {
+      "facebook": "https://www.facebook.com/lnstempunks",
+      "twitter": "https://twitter.com/lnstempunks",
+      "youtube": "https://www.youtube.com/lnstempunks",
+      "github": "https://github.com/ln-stempunks",
+      "instagram": "https://www.instagram.com/lnstempunks"
+   },
+   "frc3974": {
+      "facebook": "",
+      "twitter": "https://twitter.com/emcd3974",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3977": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3977",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3979": {
+      "facebook": "",
+      "twitter": "https://twitter.com/solaris3979frc",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3981": {
+      "facebook": "",
+      "twitter": "https://twitter.com/loups3981",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3985": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc3985",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3986": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team3986",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3990": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team3990",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3991": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team3991",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc3997": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam3997",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4001": {
+      "facebook": "https://www.facebook.com/team4001",
+      "twitter": "https://twitter.com/team4001",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4009": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/denfeldrobotics4009",
+      "instagram": ""
+   },
+   "frc4010": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcnautilus4010",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4011": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team4011_frc",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4028": {
+      "facebook": "",
+      "twitter": "https://twitter.com/beaksquad4028",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4039": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4039",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4050": {
+      "facebook": "https://www.facebook.com/biohazard4050",
+      "twitter": "https://twitter.com/frc4050",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4063": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team4063",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4068": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4068",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4085": {
+      "facebook": "",
+      "twitter": "https://twitter.com/techdiff4085",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4096": {
+      "facebook": "https://www.facebook.com/frcteam4096",
+      "twitter": "https://twitter.com/ctrlz4096",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4125": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4125",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4137": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team4137",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4145": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4145",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4146": {
+      "facebook": "",
+      "twitter": "https://twitter.com/sabercats4146",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4150": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team4150",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4151": {
+      "facebook": "",
+      "twitter": "https://twitter.com/scrap4151",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4188": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4188",
+      "youtube": "",
+      "github": "",
+      "instagram": "https://www.instagram.com/frcteam4188"
+   },
+   "frc4200": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam4200",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4206": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc_4206",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4212": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4212",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4226": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team4226",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4253": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team4253",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4256": {
+      "facebook": "",
+      "twitter": "https://twitter.com/cyborgcats4256",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4265": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4265",
+      "youtube": "https://www.youtube.com/orhswildbots",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4266": {
+      "facebook": "",
+      "twitter": "https://twitter.com/first_4266",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4269": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4269",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4272": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team4272",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4276": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4276",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4282": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team4282",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4295": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4295",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4334": {
+      "facebook": "https://www.facebook.com/team4334",
+      "twitter": "https://twitter.com/team4334",
+      "youtube": "",
+      "github": "https://github.com/team4334",
+      "instagram": ""
+   },
+   "frc4335": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4335",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4343": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4343",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4364": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4364",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4386": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam4386",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4400": {
+      "facebook": "",
+      "twitter": "https://twitter.com/cerbotics4400",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4405": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team4405",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4450": {
+      "facebook": "",
+      "twitter": "https://twitter.com/orf_4450",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4451": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam4451",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4454": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4454",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4468": {
+      "facebook": "https://www.facebook.com/fernbanklinks",
+      "twitter": "https://twitter.com/fernbanklinks",
+      "youtube": "",
+      "github": "https://github.com/fernbanklinksrobotics",
+      "instagram": "https://www.instagram.com/fernbanklinks"
+   },
+   "frc4471": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team4471",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4473": {
+      "facebook": "",
+      "twitter": "https://twitter.com/deltaprime4473",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4476": {
+      "facebook": "https://www.facebook.com/wafflesrobotics",
+      "twitter": "",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4481": {
+      "facebook": "",
+      "twitter": "https://twitter.com/rembrandts_4481",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4484": {
+      "facebook": "",
+      "twitter": "https://twitter.com/deadloxteam4484",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4505": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team4505",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4513": {
+      "facebook": "https://www.facebook.com/circuitbreakers4513",
+      "twitter": "https://twitter.com/frc4513",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4525": {
+      "facebook": "",
+      "twitter": "https://twitter.com/4525frc",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4529": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4529",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4531": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4531",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4561": {
+      "facebook": "",
+      "twitter": "https://twitter.com/terrorbytes4561",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4572": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team4572",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4587": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4587",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4592": {
+      "facebook": "https://www.facebook.com/m3robo",
+      "twitter": "https://twitter.com/m3robo",
+      "youtube": "",
+      "github": "",
+      "instagram": "https://www.instagram.com/m3robo"
+   },
+   "frc4598": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4598",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4607": {
+      "facebook": "",
+      "twitter": "https://twitter.com/cis4607",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4613": {
+      "facebook": "https://www.facebook.com/barkercollegerobotics",
+      "twitter": "",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4634": {
+      "facebook": "https://www.facebook.com/team4634",
+      "twitter": "https://twitter.com/wolfbotz",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4635": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team4635",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4645": {
+      "facebook": "",
+      "twitter": "https://twitter.com/x_machina4645",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4646": {
+      "facebook": "https://www.facebook.com/4646asap",
+      "twitter": "https://twitter.com/team4646",
+      "youtube": "",
+      "github": "https://github.com/frc4646",
+      "instagram": ""
+   },
+   "frc4664": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4664",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4732": {
+      "facebook": "",
+      "twitter": "https://twitter.com/swc4732",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4735": {
+      "facebook": "",
+      "twitter": "https://twitter.com/derof4735",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4742": {
+      "facebook": "",
+      "twitter": "https://twitter.com/jaliscience4742",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4761": {
+      "facebook": "https://www.facebook.com/frcteam4761",
+      "twitter": "https://twitter.com/frc4761",
+      "youtube": "",
+      "github": "https://github.com/team4761",
+      "instagram": "https://www.instagram.com/robockets.4761"
+   },
+   "frc4774": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/thedropbears",
+      "instagram": ""
+   },
+   "frc4778": {
+      "facebook": "",
+      "twitter": "https://twitter.com/gostormbots4778",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4795": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team4795",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4814": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4814",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4820": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team4820",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4825": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4825",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4828": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4828",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4849": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4849",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4856": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4856",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4904": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/roboticsteam4904",
+      "instagram": ""
+   },
+   "frc4909": {
+      "facebook": "https://www.facebook.com/frc4909",
+      "twitter": "https://twitter.com/frc4909",
+      "youtube": "",
+      "github": "https://github.com/frcteam4909",
+      "instagram": ""
+   },
+   "frc4910": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frcteam4910",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4915": {
+      "facebook": "",
+      "twitter": "https://twitter.com/spartronics4915",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4926": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc_team_4926",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4935": {
+      "facebook": "",
+      "twitter": "https://twitter.com/trex4935",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4939": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4939",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4956": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team4956",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4965": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc4965",
+      "youtube": "",
+      "github": "https://github.com/frc-4965-fire",
+      "instagram": ""
+   },
+   "frc4967": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team4967",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc4994": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team4994",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5010": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc5010",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5013": {
+      "facebook": "",
+      "twitter": "https://twitter.com/parkhilltrobots",
+      "youtube": "",
+      "github": "",
+      "instagram": "https://www.instagram.com/trobotsfrc5013"
+   },
+   "frc5024": {
+      "facebook": "https://www.facebook.com/raiderrobotics5024",
+      "twitter": "https://twitter.com/bealrobot",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5030": {
+      "facebook": "",
+      "twitter": "https://twitter.com/firstteam5030",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5045": {
+      "facebook": "https://www.facebook.com/wshsrobotics",
+      "twitter": "https://twitter.com/team5045",
+      "youtube": "",
+      "github": "https://github.com/team5045",
+      "instagram": ""
+   },
+   "frc5050": {
+      "facebook": "https://www.facebook.com/cowtownrobotics5050",
+      "twitter": "",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5104": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc5104",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5109": {
+      "facebook": "https://www.facebook.com/gladiatorrobotics",
+      "twitter": "https://twitter.com/jchsrobotics",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5113": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc5113",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5115": {
+      "facebook": "https://www.facebook.com/knightriderswheatonroboticsteam5115",
+      "twitter": "https://twitter.com/knightrider5115",
+      "youtube": "",
+      "github": "https://github.com/frc-team5115",
+      "instagram": ""
+   },
+   "frc5123": {
+      "facebook": "",
+      "twitter": "https://twitter.com/mechadogs",
+      "youtube": "https://www.youtube.com/mechadogs",
+      "github": "",
+      "instagram": "https://www.instagram.com/mechadogs"
+   },
+   "frc5148": {
+      "facebook": "",
+      "twitter": "https://twitter.com/blitz5148",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5150": {
+      "facebook": "https://www.facebook.com/hybridhornets",
+      "twitter": "https://twitter.com/frc5150",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5162": {
+      "facebook": "",
+      "twitter": "https://twitter.com/brobotics5162",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5254": {
+      "facebook": "https://www.facebook.com/frc5254",
+      "twitter": "https://twitter.com/frc5254",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5333": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/frc5333",
+      "instagram": ""
+   },
+   "frc5414": {
+      "facebook": "https://www.facebook.com/frc5414",
+      "twitter": "https://twitter.com/frc5414",
+      "youtube": "https://www.youtube.com/pearlandfrc",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5427": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc5427",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5431": {
+      "facebook": "",
+      "twitter": "https://twitter.com/5431frc",
+      "youtube": "",
+      "github": "https://github.com/frc5431",
+      "instagram": ""
+   },
+   "frc5436": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc5436",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5444": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc_5444",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5450": {
+      "facebook": "https://www.facebook.com/shhsrobotics",
+      "twitter": "",
+      "youtube": "",
+      "github": "",
+      "instagram": "https://www.instagram.com/shrec5450"
+   },
+   "frc5460": {
+      "facebook": "",
+      "twitter": "https://twitter.com/strikezone5460",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5483": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/team-5483",
+      "instagram": ""
+   },
+   "frc5484": {
+      "facebook": "https://www.facebook.com/team5484",
+      "twitter": "https://twitter.com/frc5484",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5491": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc5491",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5492": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc5492robotics",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5498": {
+      "facebook": "",
+      "twitter": "https://twitter.com/wireddevils5498",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5499": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/team5499",
+      "instagram": ""
+   },
+   "frc5517": {
+      "facebook": "https://www.facebook.com/frc5517",
+      "twitter": "https://twitter.com/frc5517",
+      "youtube": "",
+      "github": "https://github.com/frc5517",
+      "instagram": ""
+   },
+   "frc5518": {
+      "facebook": "https://www.facebook.com/technowolves",
+      "twitter": "https://twitter.com/technowolves",
+      "youtube": "",
+      "github": "https://github.com/technowolves5518",
+      "instagram": ""
+   },
+   "frc5526": {
+      "facebook": "",
+      "twitter": "https://twitter.com/tcats5526",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5528": {
+      "facebook": "",
+      "twitter": "https://twitter.com/ultime5528",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5547": {
+      "facebook": "",
+      "twitter": "https://twitter.com/thetalons5547",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5552": {
+      "facebook": "",
+      "twitter": "https://twitter.com/sensored5552",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5556": {
+      "facebook": "https://www.facebook.com/carriagetownrobotics",
+      "twitter": "https://twitter.com/frcteam5556",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5567": {
+      "facebook": "",
+      "twitter": "https://twitter.com/5567codered",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5572": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc5572rosbots",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5588": {
+      "facebook": "",
+      "twitter": "https://twitter.com/first_team5588",
+      "youtube": "",
+      "github": "",
+      "instagram": "https://www.instagram.com/first_team5588"
+   },
+   "frc5653": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc5653",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5678": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team_5678",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5687": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/frc5687",
+      "instagram": ""
+   },
+   "frc5712": {
+      "facebook": "",
+      "twitter": "https://twitter.com/roboticshhs",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5735": {
+      "facebook": "",
+      "twitter": "https://twitter.com/ctrlfreaks5735",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5752": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/frc-5752",
+      "instagram": ""
+   },
+   "frc5784": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team5784",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5801": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc5801",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5805": {
+      "facebook": "",
+      "twitter": "",
+      "youtube": "https://www.youtube.com/channelucf8b5avtjesifln3sxm9sva",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5806": {
+      "facebook": "https://www.facebook.com/frc5806",
+      "twitter": "",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5810": {
+      "facebook": "https://www.facebook.com/xbotsfrc",
+      "twitter": "",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5816": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc_5816",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5839": {
+      "facebook": "",
+      "twitter": "https://twitter.com/bluewhale_5839",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5857": {
+      "facebook": "https://www.facebook.com/walnutvalleyrobotics",
+      "twitter": "https://twitter.com/wvr5857",
+      "youtube": "https://www.youtube.com/channeluczjcnnyc245vxbs6hwyaysg",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5865": {
+      "facebook": "",
+      "twitter": "https://twitter.com/droide5865",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5870": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc5870",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5885": {
+      "facebook": "",
+      "twitter": "https://twitter.com/wiredcats5885",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5891": {
+      "facebook": "",
+      "twitter": "https://twitter.com/robosquad5891",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5895": {
+      "facebook": "https://www.facebook.com/peddierobotics",
+      "twitter": "",
+      "youtube": "",
+      "github": "https://github.com/peddierobotics",
+      "instagram": "https://www.instagram.com/peddierobotics"
+   },
+   "frc5919": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc5919",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5921": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc_5921",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5924": {
+      "facebook": "https://www.facebook.com/team5924",
+      "twitter": "https://twitter.com/team5924",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5926": {
+      "facebook": "https://www.facebook.com/frc5926",
+      "twitter": "https://twitter.com/frc5926",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5940": {
+      "facebook": "https://www.facebook.com/team5940bread",
+      "twitter": "https://twitter.com/frc5940",
+      "youtube": "",
+      "github": "https://github.com/bread5940",
+      "instagram": ""
+   },
+   "frc5950": {
+      "facebook": "https://www.facebook.com/team5950",
+      "twitter": "https://twitter.com/team5950",
+      "youtube": "",
+      "github": "",
+      "instagram": "https://www.instagram.com/team5950"
+   },
+   "frc5969": {
+      "facebook": "",
+      "twitter": "https://twitter.com/team5969",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5980": {
+      "facebook": "https://www.facebook.com/eastgrandrapidsrobotics",
+      "twitter": "",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5987": {
+      "facebook": "https://www.facebook.com/frc.reali",
+      "twitter": "",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc5996": {
+      "facebook": "",
+      "twitter": "https://twitter.com/rur_5996",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc6009": {
+      "facebook": "",
+      "twitter": "https://twitter.com/cyberheart6009",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc6013": {
+      "facebook": "",
+      "twitter": "https://twitter.com/robowolves6013",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc6049": {
+      "facebook": "https://www.facebook.com/titanx6049",
+      "twitter": "",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc6065": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc6065",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc6130": {
+      "facebook": "",
+      "twitter": "https://twitter.com/frc6130",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc6146": {
+      "facebook": "https://www.facebook.com/dawsonboydrobotics",
+      "twitter": "https://twitter.com/dbhsrobotics",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc6165": {
+      "facebook": "",
+      "twitter": "https://twitter.com/teamaurora6165",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc6199": {
+      "facebook": "https://www.facebook.com/ehawksual",
+      "twitter": "https://twitter.com/ehawks6199",
+      "youtube": "",
+      "github": "",
+      "instagram": ""
+   },
+   "frc6220": {
+      "facebook": "",
+      "twitter": "https://twitter.com/losal_frc",
+      "youtube": "",
+      "github": "",
+      "instagram": "https://www.instagram.com/losalfrc"
+   }
+}
